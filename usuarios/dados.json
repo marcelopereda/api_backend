@@ -1,0 +1,135 @@
+[{  
+     "id": 1,
+    "name": "João Silva",
+    "age": 30,  
+    "phones": [
+        {
+            "type": "home",
+            "number": "1234-5678"
+        },
+        {
+            "type": "work",
+            "number": "9876-5432"
+        }
+    ],
+    "address": {
+        "street": "Rua das Flores",
+        "number": 123,
+        "city": "São Paulo",
+        "state": "SP",
+        "zip": "01234-567"
+    }
+},
+{
+    "id": 2,
+    "name": "Maria Oliveira",
+    "age": 25,  
+    "phones": [
+        {
+            "type": "home",
+            "number": "2345-6789"
+        },
+        {
+            "type": "work",
+            "number": "8765-4321"
+        }
+    ],
+    "address": {
+        "street": "Avenida Brasil",
+        "number": 456,
+        "city": "Rio de Janeiro",
+        "state": "RJ",
+        "zip": "98765-432"
+    }
+},
+{
+    "id": 3,
+    "name": "Carlos Santos",
+    "age": 40,  
+    "phones": [
+        {
+            "type": "home",
+            "number": "3456-7890"
+        },
+        {
+            "type": "work",
+            "number": "7654-3210"
+        }
+    ],
+    "address": {
+        "street": "Rua da Paz",
+        "number": 789,
+        "city": "Belo Horizonte",
+        "state": "MG",
+        "zip": "54321-098"
+    }
+},
+{
+    "id": 4,
+    "name": "Maria Costa",
+    "age": 28,  
+    "phones": [
+        {
+            "type": "home",
+            "number": "4567-8901"
+        },
+        {
+            "type": "work",
+            "number": "6543-2109"
+        }
+    ],
+    "address": {
+        "street": "Rua do Sol",
+        "number": 321,
+        "city": "Salvador",
+        "state": "BA",
+        "zip": "67890-123"
+    }
+},
+{
+    "id": 5,
+    "name": "Ana Pereira",
+    "age": 35,  
+    "phones": [
+        {
+            "type": "home",
+            "number": "5678-9012"
+        },
+        {
+            "type": "work",
+            "number": "5432-1098"
+        }
+    ],
+    "address": {
+        "street": "Avenida Atlântica",
+        "number": 654,
+        "city": "Florianópolis",
+        "state": "SC",
+        "zip": "23456-789"
+    }
+}
+,
+{
+    "id": 6,
+    "name": "Lucas Almeida",
+    "age": 22,  
+    "phones": [
+        {
+            "type": "home",
+            "number": "6789-0123"
+        },
+        {
+            "type": "work",
+            "number": "4321-0987"
+        }
+    ],
+    "address": {
+        "street": "Rua do Comércio",
+        "number": 987,
+        "city": "Curitiba",
+        "state": "PR",
+        "zip": "34567-890"
+    }
+}
+
+]
